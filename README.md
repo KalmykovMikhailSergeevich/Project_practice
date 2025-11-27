@@ -34,7 +34,6 @@
 1. Предварительный анализ данных
 2. Прогнозирование классификации грибов
 
-Я выполнил свой анализ в записной книжке Python Jupyter, [mushroom_classification.ipynb](https://github.com/awesomecosmos/Mushroom-Classification/blob/main/mushroom_classification.ipynb).
 
 ## Алгоритмы
 
